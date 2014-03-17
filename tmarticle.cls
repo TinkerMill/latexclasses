@@ -1,9 +1,9 @@
 % tinkermill.cls
-% Style class for TinkerMill handouts.
+% Style class for TinkerMill articles.
 % Daniel Williams <dwilliams@port8080.net>
 
 % --- Class structure: identification part ---
-\ProvidesClass{tinkermill}[2014/03/17 version 0.1 TinkerMill Styling]
+\ProvidesClass{tmarticle}[2014/03/17 version 0.1 TinkerMill Article Styling]
 \NeedsTeXFormat{LaTeX2e}
 
 % --- Class structure: declaration of options part ---
