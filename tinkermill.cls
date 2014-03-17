@@ -41,12 +41,10 @@
 %\author{Written by \authorinfo \\ for TinkerMill}
 \author{TinkerMill}
 
-\lhead{}
+\lhead{\titleinfo}
 \chead{}
 \rhead{\includegraphics[width=0.25in]{latexclasses/tm_icon.png}}
-%\lfoot{TinkerMill}
-\lfoot{}
-%\cfoot{\titleinfo}
+\lfoot{www.tinkermill.org}
 \cfoot{}
 \rfoot{\thepage\ of \pageref{LastPage}}
 \renewcommand{\headrulewidth}{0.4pt}
