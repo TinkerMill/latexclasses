@@ -36,14 +36,14 @@
 % Renew the \titleinfo command to make this correct
 %%% Need a high res logo for this
 \newcommand{\titleinfo}{Document}
-\title{\includegraphics[width=2.0in]{tm_icon.png} \\ \titleinfo}
+\title{\includegraphics[width=2.0in]{latexclasses/tm_icon.png} \\ \titleinfo}
 %\newcommand{\authorinfo}{TinkerMill}
 %\author{Written by \authorinfo \\ for TinkerMill}
 \author{TinkerMill}
 
 \lhead{}
 \chead{}
-\rhead{\includegraphics[width=0.25in]{tm_icon.png}}
+\rhead{\includegraphics[width=0.25in]{latexclasses/tm_icon.png}}
 %\lfoot{TinkerMill}
 \lfoot{}
 %\cfoot{\titleinfo}
